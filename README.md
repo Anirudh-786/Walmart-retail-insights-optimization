@@ -1,5 +1,4 @@
 # Walmart-retail-insights-optimization
-
 Analyzed sales growth, customer segmentation, and product
  performance using advanced MySQL queries. I identified top
 performing branches, profitable product lines, and anomalies in
