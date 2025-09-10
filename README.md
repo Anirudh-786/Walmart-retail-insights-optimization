@@ -7,3 +7,5 @@ performing branches, profitable product lines, and anomalies in
  payment preferences by city. I delivered actionable insights
  through SQL-driven analysis, enhancing decision-making with
  clear visualizations and reports
+
+<img width="828" height="422" alt="image" src="https://github.com/user-attachments/assets/06188e5e-de02-40bb-8f19-a63ee2dd7b36" />
